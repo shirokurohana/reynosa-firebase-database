@@ -24,12 +24,12 @@ export default function Layout( { children, home } ) {
                 </Link>
                 </li>
                 <li className="nav-item">
-                  <Link href="family-members/WXsgdeHn5CE7Nweeg2dU">
+                  <Link href="/family-members/WXsgdeHn5CE7Nweeg2dU">
                     <a className="nav-link">Esteban Reynosa</a>
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link href="family-members/M7v0fuZpXJvoYvdxtDsZ">
+                  <Link href="/family-members/M7v0fuZpXJvoYvdxtDsZ">
                     <a className="nav-link">Maria Reynosa</a>
                   </Link>
                 </li>

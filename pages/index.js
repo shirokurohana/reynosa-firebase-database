@@ -28,7 +28,7 @@ export default function Home({ allData }) {
           <ul className="list-group list-group-flush">
             {allData ?
             allData.map(({ id, name }) => (
-              <Link key={id} href={`/${id}`}>
+              <Link key={id} href={`/family-members/${id}`}>
                 <a className="list-group-item list-group-item-action">{name}</a>
               </Link>
             ))
